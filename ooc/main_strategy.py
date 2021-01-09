@@ -7,6 +7,7 @@ from copy import deepcopy
 
 
 class Mine:
+    
     id         = 0
     mines      = {}     # mines storage
     potentials = {}     # potential mines

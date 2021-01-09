@@ -1,0 +1,6 @@
+Link to original pm:
+https://forum.codingame.com/t/ocean-of-code-feedback-strategies/175885/9
+
+Basically this was my first serious attempt at competitive programming. The resulted code is quite messy, have a quite a few repetitive fragments and even after some refactoring remained in an experimental state it was during the contest. But I still hope that the structure of the code is mostly clear and the code is somewhat readable.
+
+This version is not runnable for obvious reasons, but still can be used as some kind of a starter code.
